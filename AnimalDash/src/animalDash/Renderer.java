@@ -13,3 +13,4 @@ public class Renderer extends JPanel{
 		animalDash.AnilmalDashGame.repaint(g);
 	}
 }
+
