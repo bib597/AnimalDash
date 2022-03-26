@@ -35,6 +35,7 @@ public class AnilmalDashGame {
 			renderer = new Renderer();
 			rand = new Random();
 			//Timer timer = new Timer(20, this);
+			//hello
 			
 			jframe.add(renderer);
 			jframe.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
